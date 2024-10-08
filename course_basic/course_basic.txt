@@ -1,0 +1,20 @@
+Q1.What is HTML?
+Ans: HTML(HyperText Markup Language) is the standard language used to create and design web pages. It forms the backbone of the web and structures the content on a webpage by defining elements such as headings, paragraphs, images, links, and other multimedia.
+
+
+Q2.What is CSS?
+Ans: CSS(Cascading Style Sheets) is a language used to style and layout web pages. While HTML structures content on a webpage, CSS is responsible for the visual presentation, such as colors, fonts, spacing, and layout.
+
+
+Q3.Why did JavaScript come into the picture?
+Ans:  JavaScript was introduced to make web pages interactive and dynamic, enabling client-side functionality beyond HTML and CSS. It allows developers to add real-time interactivity, such as animations, form validation, and dynamic content updates, without requiring a page reload. JavaScript can manipulate the DOM, making features like sliders and pop-ups possible.
+
+With AJAX, it can also communicate with servers in the background, enhancing the user experience. Additionally, JavaScript frameworks like React and Angular enable the creation of complex, single-page applications, making JavaScript essential for modern web development.
+
+
+Q4.History of JavaScript and EcmaScript. Explain in your own words.
+Ans:JavaScript was created by Brendan Eich at Netscape in 1995 to make web pages interactive. Originally called Mocha, then LiveScript, it was renamed JavaScript in a marketing deal with Sun Microsystems. As it gained popularity, compatibility issues arose with other browsers like Internet Explorer.
+
+   In 1997, ECMA International standardized JavaScript, creating ECMAScript. The first version, ES1, set a foundation, and ES3 (1999) became widely used. After a long gap, ES5 (2009) brought significant improvements.
+
+   In 2015, ECMAScript 6 (ES6), also known as ES2015, introduced major features like let, const, arrow functions, and classes, starting the era of modern JavaScript. Since then, ECMAScript has received yearly updates to enhance the language.
